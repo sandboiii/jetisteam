@@ -64,6 +64,7 @@ dependencies {
 
     implementation libs.bundles.camerax
 
+    implementation libs.glance
     implementation libs.coilCompose
 
     implementation libs.hiltAndroid
